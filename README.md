@@ -1,6 +1,6 @@
-# My title again <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
+# README-Generator <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
 
-# README-Generator-
+# README-Generator
 Formatted README.md file using Node.js. Including Title, Description, License, Credits etc.
 ## Criteria
 * [Description](#description)
