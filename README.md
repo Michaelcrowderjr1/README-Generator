@@ -33,7 +33,7 @@ Install npm package "inquirer" - npm install inquirer.
 Used for generating a README.md file for your projects, README-generator creates a file called NEWREADME.md. 
 
 ## License
-<img src="https://img.shields.io/badge/License-GPLv3-blue.svg"> GNU GPL 3
+https://opensource.org/licenses/MIT
 
 https://www.gnu.org/licenses/gpl-3.0
 
