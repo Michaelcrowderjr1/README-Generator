@@ -1,4 +1,4 @@
-# README-Generator 
+# README-Generator-
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 # Description
@@ -6,7 +6,6 @@ Formatted README.md file using Node.js. Including Title, Description, License, C
 ## Criteria
 * [Description](#description)
 * [Repository](#repository)
-* [Content-URL](#content-url)
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
@@ -20,8 +19,6 @@ Formatted README.md file using Node.js. Including Title, Description, License, C
 ## Repository
 https://github.com/Michaelcrowderjr1/README-Generator-
 
-## Content-URL
-(none)
 
 ## Installation
 Install Node.js (recommend 14.15.0) from https://nodejs.org.
