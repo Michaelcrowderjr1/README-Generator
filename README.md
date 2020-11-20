@@ -1,6 +1,6 @@
 # README-Generator <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
 
-
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 # Description
 Formatted README.md file using Node.js. Including Title, Description, License, Credits etc.
 ## Criteria
