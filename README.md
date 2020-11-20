@@ -35,7 +35,6 @@ Used for generating a README.md file for your projects, README-generator creates
 ## License
 https://opensource.org/licenses/MIT
 
-https://www.gnu.org/licenses/gpl-3.0
 
 ## Contributing
 Please contact me regarding guidance on contributing and pull requests
