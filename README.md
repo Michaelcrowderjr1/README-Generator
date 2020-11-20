@@ -1,4 +1,4 @@
-# README-Generator <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
+# README-Generator 
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 # Description
